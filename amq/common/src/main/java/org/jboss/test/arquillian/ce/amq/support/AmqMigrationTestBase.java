@@ -37,7 +37,7 @@ import java.util.TreeSet;
 /**
  * @author Ales Justin
  */
-public class AmqMigrationTestBase extends AmqTestBase {
+public class AmqMigrationTestBase extends AmqBase {
 
     protected static final String END = "A-MQ migration finished";
 
